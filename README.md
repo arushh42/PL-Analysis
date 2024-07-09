@@ -31,3 +31,4 @@ We will calculate the difference between Expected Goals created and Expected Goa
 ## Conclusion
 By studying these metrics over multiple seasons, we aim to identify patterns and trends in team performance, providing valuable insights for fans, analysts, and team management.
 
+This repository serves as the basis for my blog post on [Hashnode.](<https://arushkarekar.hashnode.dev/studying-xg-differentials-and-other-premier-league-metrics-using-python>)
